@@ -69,3 +69,7 @@ A continuacion calculamos los valores teóricos de voltaje y corriente en el cir
 6. CONCLUSIONES
 
 7. BIBLIOGRAFÍA
+
+- CaraKenio (8 de noviembre de 2019). Principio de superposición – Análisis de circuitos eléctricos. from https://dademuch.com/2019/11/08/principio-de-superposicion-analisis-de-circuitos-electricos/
+
+- Wikipedia (20 Junio de 2021). Teorema de superposición from. https://es.wikipedia.org/wiki/Teorema_de_superposici%C3%B3n
