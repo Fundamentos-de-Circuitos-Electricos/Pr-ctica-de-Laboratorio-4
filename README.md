@@ -68,6 +68,10 @@ A continuacion calculamos los valores teóricos de voltaje y corriente en el cir
 
 6. CONCLUSIONES
 
+-	Con la información recolectada y los resultados obtenidos del circuito electrónico dado llegamos al cierre con la aplicación correcta del teorema de superposición.
+
+- Los conocimientos obtenidos acerca de los conceptos teóricos nos ayudan a obtener el voltaje Va y la corriente Ix con la aplicación de superposición.
+
 7. BIBLIOGRAFÍA
 
 - CaraKenio (8 de noviembre de 2019). Principio de superposición – Análisis de circuitos eléctricos. from https://dademuch.com/2019/11/08/principio-de-superposicion-analisis-de-circuitos-electricos/
