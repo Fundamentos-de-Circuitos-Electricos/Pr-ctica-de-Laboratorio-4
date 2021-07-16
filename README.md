@@ -157,6 +157,8 @@ Y obtenemos los resultados con el margen de error de los resultados analíticos 
 
 5. VIDEO
 
+https://youtu.be/sM1O6O_5qwA
+
 6. CONCLUSIONES
 
 -	Con la información recolectada y los resultados obtenidos del circuito electrónico dado llegamos al cierre con la aplicación correcta del teorema de superposición.
