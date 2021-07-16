@@ -6,7 +6,15 @@
 
 *General* 
 
+- Aplicar el teorema de superposicon para determinar los valores de voltaje en ciertas ramas de un circuito electronico y hacer uso de la tecnica de superposicon donde una fuente de volataje se realiza corto circuito para trabajar con una solo de voltaje.
+
 *Especificos*
+
+- Identificar y Aplicar todo los conceptos teóricos basados en las leyes de Kirchhoff y la ley de Ohm, para obtener el voltaje Va y la corriente Ix y anotar los valor analíticos en la tabla de comparación.
+
+- Calcular con el voltimetro y amperimetro en la simulacion la corriente Ix y el voltaje Va y comparar los valores con los resultados que se obtengan mediante el analisis algebraico.
+
+- Experimentar todo el funcionamiento del circuito tomando en cuneta que por el teorema de superposicion se puede hacer 0 a una de las dos fuentes de voltaje.
 
 2. MARCO TEORICO
 
