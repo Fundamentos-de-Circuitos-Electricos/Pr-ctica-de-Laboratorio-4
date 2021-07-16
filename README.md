@@ -6,7 +6,7 @@
 
 *General* 
 
-- Aplicar el teorema de superposicon para determinar los valores de voltaje en ciertas ramas de un circuito electronico y hacer uso de la tecnica de superposicon donde una fuente de volataje se realiza corto circuito para trabajar con una solo de voltaje.
+- Aplicar el teorema de superposicion para determinar los valores de voltaje en ciertas ramas de un circuito electronico y hacer uso de la tecnica de superposicion donde una fuente de voltaje se realiza corto circuito para trabajar con un solo de voltaje.
 
 *Especificos*
 
