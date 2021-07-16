@@ -64,6 +64,33 @@ A continuacion calculamos los valores teóricos de voltaje y corriente en el cir
 
 4. RESPUESTAS A INTERROGANTES Y CÁLCULO DEL ERROR
 
+4.5.2. Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+
+
+![image](https://user-images.githubusercontent.com/84390686/125913717-e3ad7a2e-cce5-4d86-a1b7-dfb59eeff1cb.png)
+
+4.5.3. Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+
+
+![image](https://user-images.githubusercontent.com/84390686/125913803-73d62dc7-2d51-441c-9cae-a5968f4d1204.png)
+
+4.5.4. Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
+proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+
+
+![image](https://user-images.githubusercontent.com/84390686/125913858-5b54b459-b2a9-43ea-ab64-ea39502d4137.png)
+
+Tabla 4.1. Medición de voltaje aplicando superposición.
+
+![image](https://user-images.githubusercontent.com/84390686/125913909-e53cb660-79cd-488a-8451-47ed1428d7a8.png)
+
+Tabla 4.2. Medición de corriente aplicando superposición.
+
+![image](https://user-images.githubusercontent.com/84390686/125913956-21d03c68-a682-4abb-b5cb-f785cc0b4739.png)
+
 5. VIDEO
 
 6. CONCLUSIONES
