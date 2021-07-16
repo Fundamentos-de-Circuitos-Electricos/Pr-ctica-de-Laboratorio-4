@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/85137398/125887262-69af47d0-b668-4056-94c7-1cb9ed8bfa3a.png)
+![image](https://user-images.githubusercontent.com/85137398/125888871-bc5bd21b-5eef-4e80-9e1f-ff8b16d97d36.png)
 
 # Práctica de Laboratorio 4 
 
