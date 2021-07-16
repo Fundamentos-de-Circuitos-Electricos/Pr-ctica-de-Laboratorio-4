@@ -10,11 +10,11 @@
 
 *Especificos*
 
-- Identificar y Aplicar todo los conceptos teóricos basados en las leyes de Kirchhoff y la ley de Ohm, para obtener el voltaje Va y la corriente Ix y anotar los valor analíticos en la tabla de comparación.
+- Identificar y Aplicar todos los conceptos teóricos basados en las leyes de Kirchhoff y la ley de Ohm, para obtener el voltaje Va, la corriente Ix y anotar los valores analíticos en la tabla de comparación.
 
-- Calcular con el voltimetro y amperimetro en la simulacion la corriente Ix y el voltaje Va y comparar los valores con los resultados que se obtengan mediante el analisis algebraico.
+- Calcular con el voltimetro y amperimetro en la simulacion la corriente Ix, el voltaje Va y comparar los valores con los resultados que se obtengan mediante el analisis algebraico.
 
-- Experimentar todo el funcionamiento del circuito tomando en cuneta que por el teorema de superposicion se puede hacer 0 a una de las dos fuentes de voltaje.
+- Experimentar todo el funcionamiento del circuito tomando en cuenta que por el teorema de superposicion se puede hacer 0 a una de las dos fuentes de voltaje.
 
 2. MARCO TEORICO
 
