@@ -66,19 +66,72 @@ A continuacion calculamos los valores teóricos de voltaje y corriente en el cir
 
 4.5.2. Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
+El voltaje total entre las dos fuente es:
 
+VAtotal = VA'-VA''
+
+VAtotal = 7,48V - 6,52V
+
+VAtotal = 0,96V
+
+La Corriente total entre las dos fuente es:
+
+IXtotal = Ix'+Ix''
+
+IXtotal = 0 + 25,5 mA
+
+IXtotal = 25,5 mA
 
 ![image](https://user-images.githubusercontent.com/84390686/125913717-e3ad7a2e-cce5-4d86-a1b7-dfb59eeff1cb.png)
 
 4.5.3. Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
+Realizamos haciendo 0 a la fuente de voltaje de 12 V
 
+![image](https://user-images.githubusercontent.com/84390686/125914838-60be0ba9-6461-4969-a1b6-3e78bc64e943.png)
+
+Req 1 = 597,35
+
+Req 2 = 1597,35 
+
+V1 = VT * Rx / RT
+
+V1 = 20 * 597,35/1597
+
+V1 = 7,48 V
+
+V1 = VA' = 7,48 V
+
+Ix = 0
 
 ![image](https://user-images.githubusercontent.com/84390686/125913803-73d62dc7-2d51-441c-9cae-a5968f4d1204.png)
 
 4.5.4. Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
 proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
+![image](https://user-images.githubusercontent.com/84390686/125915022-a924f3b8-9560-4820-80c9-60bdc2de9025.png)
+
+Req 1 = 687,5
+
+Req 2 = 1507,5
+
+Req 3 = 358,29
+
+IT = 12/358,29 = 0,03349 A
+
+Ix = 12 / 470 = 0,025531 A 
+
+I1 = IT – Ix
+
+I1 = 0,033549 – 0,025531
+
+I1= 0,00796 A  = 7,96 mA
+
+VA'' = I1 * 820
+
+VA'' = 0,00796 *820
+
+VA'' = 6,52 V
 
 
 ![image](https://user-images.githubusercontent.com/84390686/125913858-5b54b459-b2a9-43ea-ab64-ea39502d4137.png)
@@ -90,6 +143,17 @@ Tabla 4.1. Medición de voltaje aplicando superposición.
 Tabla 4.2. Medición de corriente aplicando superposición.
 
 ![image](https://user-images.githubusercontent.com/84390686/125913956-21d03c68-a682-4abb-b5cb-f785cc0b4739.png)
+
+4.5.5. Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
+conclusiones.
+
+Para calcular el porcentaje de error de las mediciones, se tiene en cuenta la siguiente fórmula:
+
+![image](https://user-images.githubusercontent.com/84390686/125915849-61331f5c-667b-413d-b35c-59ba54711bdc.png)
+
+Y obtenemos los resultados con el margen de error de los resultados analíticos y los resulados simulados:
+
+![image](https://user-images.githubusercontent.com/84390686/125917709-3d380593-09ac-4dab-95b9-ebf08076705a.png)
 
 5. VIDEO
 
